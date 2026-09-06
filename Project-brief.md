@@ -2,7 +2,7 @@
 
 ## The Question
 
-How has the extent of built-up land in Adentan Municipality changed between 2015 and 2025?
+How has the extent of built-up land in Adentan Municipality changed between 2016 and 2025?
 
 ## Why It Matters
 
@@ -11,17 +11,16 @@ Urban growth affects land use, infrastructure, environmental sustainability, and
 ## Data Needed
 
 1. Adentan Municipality Boundary
-   Source: GADM
-   Format: Shapefile
+   Source: GADM- https://gadm.org-shapefile
 
-2. Landsat 8 Imagery (2015)
-   Source: USGS Earth Explorer
-   Format: GeoTIFF
+
+2. Landsat 8 Imagery (2016)
+   Source: https://earthexplorer.usgs.gov-GeoTIFF
 
 3. Sentinel-2 Imagery (2025)
-   Source: Copernicus Data Space
-   Format: GeoTIFF
-
+   Source: https://dataspace.copernicus.eu-JP2
+4. Road and building data
+    Source: https://www.openstreetmap.org-GeoPackage
 ## Method
 
 - Download satellite imagery
