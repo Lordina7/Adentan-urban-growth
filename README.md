@@ -9,3 +9,6 @@ Clipped the highway and settlement layers to the Adentan study area using QGIS a
 -Week 6: set up the project with uv and added pandas.check.py prints the pandas version.
 -Week 8: inspect_data.py summarises AREA and PERIMETER in my Adentan settlement data
 -Week 9: summary.py splits my script into read_rows, clean_values and summarise, and summarise_all prints one line per column for my Adentan settlement data
+
+## Month 3: Geospatial Python Authomation
+-Week 10: GeoPandas. Loaded, Checked, joined and mapped my [layer name] in code
